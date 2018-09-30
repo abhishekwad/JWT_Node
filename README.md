@@ -15,4 +15,4 @@ Basic Structure of JWT
 
 
 
-This is a nde.js application with few routes and authenticate them using tokens. 
+This is a node.js application with few routes and authenticate them using tokens. 
